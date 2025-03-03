@@ -1,0 +1,10 @@
+# Ignorando os arquivos de treino/teste, noticias e validação;
+**/*.csv
+**/*.parquet
+**/*.pkl
+
+# Ignorando o venv do Python;
+**/enviroments
+
+
+
